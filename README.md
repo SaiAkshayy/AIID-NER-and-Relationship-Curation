@@ -44,7 +44,8 @@ Text embeddings generated using the all-MiniLM-L6-v2 model provided a semantic r
 
 Entity relationships were visualized using network graphs created with PyViz and NetworkX. The graphs illustrated connections between developers, deployers, and victims, highlighting relationships such as harm caused by AI systems or the deployment chain of responsibilities.
 
-![Screenshot 2024-12-05 222914](https://github.com/user-attachments/assets/d334f23d-5ee9-40a8-9709-9888319f2010)
+<img src="https://github.com/user-attachments/assets/d334f23d-5ee9-40a8-9709-9888319f2010" alt="Screenshot 2024-12-05 222914" width="500" height="300">
+
 
 ## Results and Insights:
 
