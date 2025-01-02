@@ -61,6 +61,8 @@ Clustering revealed actionable patterns and relationships within the data. For e
 
 Network graphs provided a comprehensive view of the interconnections between roles. Subgraphs focusing on specific entities, such as Tesla or Facebook, showcased risks and systemic issues unique to these organizations. These visualizations were instrumental in uncovering patterns of harm, responsibility, and governance gaps.
 
+<img src="https://github.com/user-attachments/assets/1629b42e-ddda-47cb-965c-e52668a4a4fa" width="700" height="500">
+
 ## Recommendations:
 
 Improved Entity Extraction Models: Future iterations should integrate context-aware models like GPT-4 to enhance accuracy in identifying ambiguous or abstract entities.
