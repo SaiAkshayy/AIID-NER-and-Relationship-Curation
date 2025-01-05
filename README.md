@@ -16,7 +16,7 @@ The manual nature of current entity identification processes introduces ineffici
 
 - Limited ability to derive meaningful insights due to unstructured data.
 
-- This project addresses these issues by leveraging automated methods to streamline analysis while enhancing data quality and interpretability.
+This project addresses these issues by leveraging automated methods to streamline analysis while enhancing data quality and interpretability.
 
 ## Methodology:
 
