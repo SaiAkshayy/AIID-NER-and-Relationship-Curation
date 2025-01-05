@@ -67,21 +67,21 @@ Network graphs provided a comprehensive view of the interconnections between rol
 
 ## Recommendations:
 
-Improved Entity Extraction Models: Future iterations should integrate context-aware models like GPT-4 to enhance accuracy in identifying ambiguous or abstract entities.
+- Improved Entity Extraction Models: Future iterations should integrate context-aware models like GPT-4 to enhance accuracy in identifying ambiguous or abstract entities.
 
-Enhanced Clustering Techniques: Incorporate additional features such as temporal and geospatial data to refine clustering and uncover latent trends.
+- Enhanced Clustering Techniques: Incorporate additional features such as temporal and geospatial data to refine clustering and uncover latent trends.
 
-Scalable Infrastructure: Utilize cloud-based solutions (e.g., AWS) to address computational bottlenecks and enable real-time processing.
+- Scalable Infrastructure: Utilize cloud-based solutions (e.g., AWS) to address computational bottlenecks and enable real-time processing.
 
-Interactive Dashboards: Develop a dynamic interface to visualize entity relationships and provide stakeholders with actionable insights in real time.
+- Interactive Dashboards: Develop a dynamic interface to visualize entity relationships and provide stakeholders with actionable insights in real time.
 
 ## Limitations:
 
-Data Quality: Manually curated incident descriptions introduced biases and ambiguities, affecting the reliability of entity extraction.
+- Data Quality: Manually curated incident descriptions introduced biases and ambiguities, affecting the reliability of entity extraction.
 
-Computational Constraints: High resource requirements for large language models (LLMs) posed scalability challenges.
+- Computational Constraints: High resource requirements for large language models (LLMs) posed scalability challenges.
 
-Model Performance: While effective, the NER model occasionally struggled with nuanced or overlapping roles, necessitating further refinement.
+- Model Performance: While effective, the NER model occasionally struggled with nuanced or overlapping roles, necessitating further refinement.
 
 ## Future Directions:
 
