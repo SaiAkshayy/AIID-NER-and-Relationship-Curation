@@ -10,7 +10,7 @@ This project aims to automate entity identification and clustering using advance
 
 The manual nature of current entity identification processes introduces inefficiencies and limits the ability to analyze the complex relationships between developers, deployers, and victims. Additionally, these challenges hinder the extraction of structured insights necessary for effective decision-making and governance. Key issues include:
 
-Resource-intensive curation processes.
+### Resource-intensive curation processes.
 
 Difficulty in capturing nuanced relationships within dynamic networks.
 
