@@ -12,11 +12,11 @@ The manual nature of current entity identification processes introduces ineffici
 
 ### Resource-intensive curation processes.
 
-Difficulty in capturing nuanced relationships within dynamic networks.
+- Difficulty in capturing nuanced relationships within dynamic networks.
 
-Limited ability to derive meaningful insights due to unstructured data.
+- Limited ability to derive meaningful insights due to unstructured data.
 
-This project addresses these issues by leveraging automated methods to streamline analysis while enhancing data quality and interpretability.
+- This project addresses these issues by leveraging automated methods to streamline analysis while enhancing data quality and interpretability.
 
 ## Methodology:
 
