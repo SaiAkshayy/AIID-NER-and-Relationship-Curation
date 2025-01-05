@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-The AI Incident Database (AIID) serves as a comprehensive open-source repository documenting real-world incidents where artificial intelligence (AI) systems have caused harm. These incidents often involve three critical roles: developers, deployers, and victims. Understanding the relationships between these roles is essential to identifying systemic risks, enabling governance, and fostering ethical AI practices. However, current methods of identifying and clustering these entities rely heavily on manual processes, which are time-consuming and error-prone.
+The AI Incident Database (AIID) serves as a comprehensive open-source repository documenting real-world incidents where artificial intelligence (AI) systems have caused harm. These incidents often involve three critical roles: developers, deployers, and victims. Understanding the relationships between these roles is essential to identifying systemic risks, enabling governance, and fostering ethical AI practices. However, current methods of identifying and clustering these entities rely heavily on manual processes, which are time-consuming and prone to bias and errors.
 
 This project aims to automate entity identification and clustering using advanced natural language processing (NLP) and machine learning (ML) techniques. By enhancing the accuracy and efficiency of entity extraction and relationship mapping, the project provides a scalable framework to analyze AI incidents and generate actionable insights.
 
