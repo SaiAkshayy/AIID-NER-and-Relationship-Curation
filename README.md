@@ -87,11 +87,11 @@ Network graphs provided a comprehensive view of the interconnections between rol
 
 Future work will focus on incorporating real-time entity extraction and relationship mapping to provide continuous updates on evolving AI incidents. Expanding graph-based visualizations and integrating temporal data will enable longitudinal studies of trends and systemic risks. Additionally, enhanced dashboards will empower stakeholders to interact with the data dynamically, fostering more effective decision-making.
 
-Visualizations:
+### Visualizations:
 
-Cluster Scatter Plot: Displays semantic groupings of victim entities using K-Means.
+- Cluster Scatter Plot: Displays semantic groupings of victim entities using K-Means.
 
-Network Graph: Maps relationships between developers, deployers, and victims, categorized by color-coded clusters.
+- Network Graph: Maps relationships between developers, deployers, and victims, categorized by color-coded clusters.
 
-Focused Subgraphs: Highlights incident-specific risks, such as Tesla’s autonomous vehicle accidents or Facebook’s algorithmic biases.
+- Focused Subgraphs: Highlights incident-specific risks, such as Tesla’s autonomous vehicle accidents or Facebook’s algorithmic biases.
 
