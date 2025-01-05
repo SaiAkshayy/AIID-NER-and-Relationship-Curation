@@ -63,7 +63,7 @@ Clustering revealed actionable patterns and relationships within the data. For e
 
 Network graphs provided a comprehensive view of the interconnections between roles. Subgraphs focusing on specific entities, such as Tesla or Facebook, showcased risks and systemic issues unique to these organizations. These visualizations were instrumental in uncovering patterns of harm, responsibility, and governance gaps.
 
-<img src="" width="700" height="500">
+<img src="https://github.com/user-attachments/assets/cd65533a-934f-4143-9ce2-05c11d399662" width="700" height="500">
 
 ## Recommendations:
 
