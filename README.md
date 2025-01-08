@@ -65,6 +65,8 @@ Network graphs provided a comprehensive view of the interconnections between rol
 
 <img src="https://github.com/user-attachments/assets/cd65533a-934f-4143-9ce2-05c11d399662" width="700" height="500">
 
+<img src = "https://github.com/user-attachments/assets/ac6ce32e-1692-4d43-98b8-55a70c5f9785" width="300" height="300">
+
 ## Recommendations:
 
 - Improved Entity Extraction Models: Future iterations should integrate context-aware models like GPT-4 to enhance accuracy in identifying ambiguous or abstract entities.
