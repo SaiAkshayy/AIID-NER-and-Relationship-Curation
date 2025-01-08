@@ -38,7 +38,7 @@ A fine-tuned RoBERTa transformer model was employed for Named Entity Recognition
 
 ### Entity Clustering:
 
-Text embeddings generated using the all-MiniLM-L6-v2 model provided a semantic representation of entities. These embeddings were clustered using K-Means (set to 100 clusters), enabling the identification of patterns and relationships among entities. This structured clustering process uncovered themes such as recurring developer-victim interactions and deployer-specific risks.
+Text embeddings generated using the all-MiniLM-L6-v2 model provided a semantic representation of entities. These embeddings were clustered using K-Means (set to 100 clusters), enabling the identification of patterns and relationships among entities. This structured clustering process uncovered themes such as recurring developer-victim interactions and deployer-specific risks. Cluster labels were manually generated.
 
 <img src= "https://github.com/user-attachments/assets/ed6ee00e-c4ca-4287-93ba-bf552344cc89" width="700" height="500">
 
