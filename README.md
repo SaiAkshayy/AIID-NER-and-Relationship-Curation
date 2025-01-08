@@ -67,7 +67,7 @@ Network graphs provided a comprehensive view of the interconnections between rol
 
 ### Closer look at Tesla and Facebook's Subgraph:
 
-<img src = "https://github.com/user-attachments/assets/ac6ce32e-1692-4d43-98b8-55a70c5f9785" width="500" height="400"> 
+<img src = "https://github.com/user-attachments/assets/ac6ce32e-1692-4d43-98b8-55a70c5f9785" width="500" height="400">  <img src = "https://github.com/user-attachments/assets/4916dc00-5b2e-46c4-85c8-36d6802a6886" width="500" height="400"> 
 
 Tesla’s subgraph illustrates the risks associated with autonomous AI systems, particularly self-driving cars. Victims include accident victims, pedestrians, and engineers, reflecting the consequences of deploying AI without adequate safeguards. Tesla’s graph underscores the importance of safety protocols and regulatory oversight, highlighting the potential for significant harm in autonomous systems.
 
