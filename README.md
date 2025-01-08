@@ -32,17 +32,17 @@ Incidents Collection: Documents 793 distinct incidents, each linked to multiple 
 
 Preprocessing involved standardizing and validating textual data to ensure uniformity and readiness for analysis. MongoDB was used for storage, enabling efficient querying and compatibility with unstructured data.
 
-## Entity Recognition:
+### Entity Recognition:
 
 A fine-tuned RoBERTa transformer model was employed for Named Entity Recognition (NER). The process entailed tokenizing raw text into manageable units, embedding tokens into high-dimensional semantic spaces, and tagging entities. Despite its strengths, the model encountered challenges in identifying abstract entities like "pedestrian" or ambiguous roles, which sometimes led to misclassification.
 
-## Entity Clustering:
+### Entity Clustering:
 
 Text embeddings generated using the all-MiniLM-L6-v2 model provided a semantic representation of entities. These embeddings were clustered using K-Means (set to 100 clusters), enabling the identification of patterns and relationships among entities. This structured clustering process uncovered themes such as recurring developer-victim interactions and deployer-specific risks.
 
 <img src= "https://github.com/user-attachments/assets/ed6ee00e-c4ca-4287-93ba-bf552344cc89" width="700" height="500">
 
-## Relationship Mapping:
+### Relationship Mapping:
 
 Entity relationships were visualized using network graphs created with PyViz and NetworkX. The graphs illustrated connections between developers, deployers, and victims, highlighting relationships such as harm caused by AI systems or the deployment chain of responsibilities.
 
