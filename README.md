@@ -24,11 +24,11 @@ This project addresses these issues by leveraging automated methods to streamlin
 
 The primary data source was the AI Incident Database, which consists of three main collections:
 
-Reports Collection: Contains 3,921 indexed reports with detailed descriptions and metadata.
+- Reports Collection: Contains 3,921 indexed reports with detailed descriptions and metadata.
 
-Entities Collection: Includes 2,388 unique entities categorized into developers, deployers, and victims.
+- Entities Collection: Includes 2,388 unique entities categorized into developers, deployers, and victims.
 
-Incidents Collection: Documents 793 distinct incidents, each linked to multiple reports for contextual depth.
+- Incidents Collection: Documents 793 distinct incidents, each linked to multiple reports for contextual depth.
 
 Preprocessing involved standardizing and validating textual data to ensure uniformity and readiness for analysis. MongoDB was used for storage, enabling efficient querying and compatibility with unstructured data.
 
