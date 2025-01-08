@@ -55,11 +55,11 @@ Entity relationships were visualized using network graphs created with PyViz and
 
 Automated NER significantly improved the efficiency of identifying developers, deployers, and victims within incident reports. This automation reduced reliance on manual curation and improved the precision of extracted entities by incorporating semantic context.
 
-## Clustering Insights:
+### Clustering Insights:
 
 Clustering revealed actionable patterns and relationships within the data. For example, entities were grouped into meaningful clusters based on their semantic similarity, enabling deeper analysis of developer-deployer-victim interactions. The clustering also highlighted recurring themes, such as incidents involving autonomous vehicles and biased content moderation.
 
-## Visualization of Relationships:
+### Visualization of Relationships:
 
 Network graphs provided a comprehensive view of the interconnections between roles. Subgraphs focusing on specific entities, such as Tesla or Facebook, showcased risks and systemic issues unique to these organizations. These visualizations were instrumental in uncovering patterns of harm, responsibility, and governance gaps.
 
