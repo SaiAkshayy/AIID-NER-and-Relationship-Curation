@@ -2,9 +2,9 @@
 
 ## Introduction:
 
-The AI Incident Database (AIID) serves as a comprehensive open-source repository documenting real-world incidents where artificial intelligence (AI) systems have caused harm. These incidents often involve three critical roles: developers, deployers, and victims. Understanding the relationships between these roles is essential to identifying systemic risks, enabling governance, and fostering ethical AI practices. However, current methods of identifying and clustering these entities rely heavily on manual processes, which are time-consuming and prone to bias and errors.
+The AI Incident Database (AIID) is a comprehensive open-source repository documenting real-world incidents where artificial intelligence (AI) systems have caused harm. These incidents often involve three critical roles: developers, deployers, and victims. Understanding the relationships between these roles is essential to identifying systemic risks, enabling governance, and fostering ethical AI practices. However, current methods of identifying and clustering these entities rely heavily on manual processes, which are time-consuming and prone to bias and errors.
 
-This project aims to automate entity identification and clustering using advanced natural language processing (NLP) and machine learning (ML) techniques. By enhancing the accuracy and efficiency of entity extraction and relationship mapping, the project provides a scalable framework to analyze AI incidents and generate actionable insights.
+This project will automate entity identification and clustering using advanced natural language processing (NLP) and machine learning (ML) techniques. By enhancing the accuracy and efficiency of entity extraction and relationship mapping, the project provides a scalable framework to analyze AI incidents and generate actionable insights.
 
 ## Problem Statement:
 
@@ -34,7 +34,7 @@ Preprocessing involved standardizing and validating textual data to ensure unifo
 
 ### Entity Recognition:
 
-A fine-tuned RoBERTa transformer model was employed for Named Entity Recognition (NER). The process entailed tokenizing raw text into manageable units, embedding tokens into high-dimensional semantic spaces, and tagging entities. Despite its strengths, the model encountered challenges in identifying abstract entities like "pedestrian" or ambiguous roles, which sometimes led to misclassification.
+A fine-tuned RoBERTa transformer model was employed for Named Entity Recognition (NER). The process entailed tokenizing raw text into manageable units, embedding tokens into high-dimensional semantic spaces, and tagging entities. Despite its strengths, the model encountered challenges in identifying abstract entities like "pedestrian" or ambiguous roles, which led to misclassification.
 
 ### Entity Clustering:
 
@@ -44,7 +44,7 @@ Text embeddings generated using the all-MiniLM-L6-v2 model provided a semantic r
 
 ### Relationship Mapping:
 
-Entity relationships were visualized using network graphs created with PyViz and NetworkX. The graphs illustrated connections between developers, deployers, and victims, highlighting relationships such as harm caused by developer or deployer of the AI Systems.
+Entity relationships were visualized using network graphs created with PyViz and NetworkX. The graphs illustrated connections between developers, deployers, and victims, highlighting relationships such as harm caused by developers or deployers of the AI Systems.
 
 <img src="https://github.com/user-attachments/assets/d334f23d-5ee9-40a8-9709-9888319f2010" alt="Screenshot 2024-12-05 222914" width="500" height="350">
 
@@ -71,7 +71,7 @@ Network graphs provided a comprehensive view of the interconnections between rol
 
 Tesla’s subgraph illustrates the risks associated with autonomous AI systems, particularly self-driving cars. Victims include accident victims, pedestrians, and engineers, reflecting the consequences of deploying AI without adequate safeguards. Tesla’s graph underscores the importance of safety protocols and regulatory oversight, highlighting the potential for significant harm in autonomous systems.
 
-The graph of Facebook dives deeper into specific cases. Shows various groups affected by AI systems deployed by Facebook, such as minority groups, child users, and instagram users. Highlights how Facebook’s AI systems impact diverse users, including vulnerable populations (e.g., children, minority groups). Raises concerns about moderation, privacy, and algorithmic biases affecting these groups.
+Facebook's subgraph dives deeper into specific cases. Showing various groups affected by AI systems deployed by Facebook, such as minority groups, child users, and Instagram users. Highlights how Facebook’s AI systems impact diverse users, including vulnerable populations (e.g., children, minority groups). Raises concerns about moderation, privacy, and algorithmic biases affecting these groups.
 
 ## Recommendations:
 
@@ -81,7 +81,7 @@ The graph of Facebook dives deeper into specific cases. Shows various groups aff
 
 - Scalable Infrastructure: Utilize cloud-based solutions (e.g., AWS) to address computational bottlenecks and enable real-time processing.
 
-- Interactive Dashboards: Develop a dynamic interface to visualize entity relationships and provide stakeholders with actionable insights in real time.
+- Interactive Dashboards: Develop a dynamic interface to visualize entity relationships and provide stakeholders with actionable insights in real-time.
 
 ## Limitations:
 
